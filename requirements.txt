@@ -1,2 +1,6 @@
 streamlit
-huggingface_hub>=0.33.0
+huggingface_hub
+transformers
+torch
+accelerate
+sentencepiece
